@@ -10,7 +10,7 @@ while i<len(marks):
     print(max)
     i=i+1
 
-# words = "navgurukul is great"
+#  words = "navgurukul is great"
 # counter = 0
 # while counter < len(words):
 #     print (words[counter])
